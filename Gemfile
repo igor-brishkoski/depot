@@ -37,6 +37,6 @@ gem 'rails_12factor'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-# Use debugger
+# Use debugger#
 # gem 'debugger', group: [:development, :test]
 
