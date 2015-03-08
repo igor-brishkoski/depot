@@ -37,6 +37,8 @@ gem 'rails_12factor'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-# Use debugger#
+#Use debugger#
 # gem 'debugger', group: [:development, :test]
+gem 'awesome_print', group: [:development, :test]
+gem 'byebug', group: [:development, :test]
 
