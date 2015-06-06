@@ -24,6 +24,9 @@ default: &default
 development:
   <<: *default
   database: depot_development
+  adapter: postgresql
+  host: localhost
+  encoding: unicode
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
