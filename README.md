@@ -1,6 +1,6 @@
 == README
 
-CURRENT CHAPTER === Chapter 11. Task F: Add a Dash of Ajax • 138
+CURRENT CHAPTER === Chapter 11. Iteration F2: Creating an Ajax-Based Cart
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
