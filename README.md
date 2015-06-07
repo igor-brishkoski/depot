@@ -1,6 +1,6 @@
 == README
 
-CURRENT CHAPTER === Task E: A Smarter Cart
+CURRENT CHAPTER === Chapter 11. Task F: Add a Dash of Ajax • 138
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
