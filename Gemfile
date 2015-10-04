@@ -41,6 +41,6 @@ gem 'rails_12factor', group: [:production, :staging]
 
 #Use debugger#
 # gem 'debugger', group: [:development, :test]
-gem 'awesome_print', group: [:development, :test]
 gem 'byebug', group: [:development, :test]
+gem 'awesome_print'
 
