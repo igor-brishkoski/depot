@@ -5,6 +5,7 @@
 #   git config --global core.excludesfile '~/.gitignore_global'
 
 #test for heroku accounts
+# test 2 for aacounts
 # Ignore bundler config.
 /.bundle
 
